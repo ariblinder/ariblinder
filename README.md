@@ -3,7 +3,7 @@
 ## Education
 
 ### Data Science Bootcamp, Jovian                                                         
-- Aug 2021 - Ongoing
+- Aug 2021 - July 2022
 - Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 - Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
 
